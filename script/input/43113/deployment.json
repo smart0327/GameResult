@@ -1,0 +1,6 @@
+{
+    "StashProxy" : "0xCE1B668151f1FD19fbfAafBfB79Ee423F27CF4A4",
+    "StashImplementation": "0x76388552b7cc7665bCE8FAa78F4Aa83356B0d332",
+    "GameResultProxy" : "0x0b9445f0c8383c83BDc68AeeDb37F0964ddE2a8e",
+    "GameResultImplementation": "0x1ECc4142A742cb6f972E08B84238c84422b5B236"
+}
